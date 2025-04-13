@@ -3,6 +3,7 @@
 A feature-rich web application developed during my internship at Masai (Oct 2024 – Mar 2025). This project combines responsive frontend design, a robust Django backend, RESTful APIs, and Generative AI integration to automate and streamline content creation.
 
 🔧 Tech Stack
+
 Frontend: HTML, CSS, JavaScript
 
 Backend: Django (Python), RESTful APIs
@@ -27,12 +28,12 @@ AI Integration: Generative AI (e.g., OpenAI API or similar)
 🔹 Git-managed workflows and collaboration tools
 
 📈 Optimizations & Achievements
-⚡ Improved page load speed by 30% via frontend and image optimization
+ Improved page load speed by 30% via frontend and image optimization
 
-🔗 Enhanced API response efficiency by 40%
+Enhanced API response efficiency by 40%
 
-🧠 Reduced data fetch time by 35% with optimized MongoDB queries
+Reduced data fetch time by 35% with optimized MongoDB queries
 
-🤖 Increased automation efficiency by 25% using Generative AI features
+Increased automation efficiency by 25% using Generative AI features
 
-🔄 Successfully resolved 95% of Git merge conflicts during team development
+Successfully resolved 95% of Git merge conflicts during team development
